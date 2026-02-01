@@ -342,6 +342,16 @@ msgid ""
 "source code.  Whether a library function is a system call is an internal "
 "implementation detail that makes no difference for how to call the function."
 msgstr ""
+"A maioria dos sistemas GNU/Linux usa a Biblioteca GNU C para fornecer essas "
+"facilidades. Ela própria é escrita em C, de modo que, depois de conhecer "
+"C, você poderá ler o código-fonte dela e ver como as funções de "
+"biblioteca dela fazem o trabalho delas. Alguma fração das funções é "
+"implementada como @dfn{chamadas de sistema}, o que significa que elas "
+"contêm uma instrução especial que solicita que o núcleo do sistema "
+"(Linux) faça uma tarefa específica. Para entender como elas estão "
+"implementados, você precisaria ler o código-fonte do Linux. Se uma "
+"função de biblioteca é uma chamada de sistema é um detalhe de "
+"implementação interna que não faz diferença para como chamar a função."
 
 #. type: Plain text
 #: c-intro-and-ref.texi:174
@@ -350,6 +360,10 @@ msgid ""
 "among the earliest GNU manuals.  It also uses some text from the earlier GNU "
 "C Manual that was written by Trevis Rothwell and James Youngman."
 msgstr ""
+"Este manual incorpora o antigo Manual do Pré-processador GNU C, que estava "
+"entre os primeiros manuais do GNU. Ele também usa algum texto proveniente "
+"do Manual da GNU C anterior, que foi escrito por Trevis Rothwell e James "
+"Youngman."
 
 #. type: Plain text
 #: c-intro-and-ref.texi:179
@@ -359,296 +373,300 @@ msgid ""
 "companion manual, the GNU C Obscurities Manual, which will be published "
 "digitally later."
 msgstr ""
+"GNU C tem muitos recursos obscuros, cada um deles ou para compatibilidade "
+"histórica ou destinado para situações muito especiais. Nós os deixamos "
+"para um manual complementar, o Manual de Obscuridades da GNU C, o qual será "
+"publicado digitalmente posteriormente."
 
 #. type: Plain text
 #: c-intro-and-ref.texi:181
 msgid "Please report errors and suggestions to c-manual@@gnu.org."
-msgstr ""
+msgstr "Por favor, informe erros e sugestões para c-manual@@gnu.org."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:512
 #: c-intro-and-ref.texi:513
 #, no-wrap
 msgid "The First Example"
-msgstr ""
+msgstr "O Primeiro Exemplo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Getting started with basic C code."
-msgstr ""
+msgstr "Primeiros passos com código C básico."
 
 #. type: node
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:987
 #, no-wrap
 msgid "Complete Program"
-msgstr ""
+msgstr "Programa Completo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "A whole example program that can be compiled and run."
-msgstr ""
+msgstr "Um programa inteiro de exemplo que pode ser compilado e executado."
 
 #. type: node
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:1203
 #, no-wrap
 msgid "Storage"
-msgstr ""
+msgstr "Armazenamento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Basic layout of storage; bytes."
-msgstr ""
+msgstr "Esquema básico de armazenamento; baites."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:1227
 #: c-intro-and-ref.texi:1228
 #, no-wrap
 msgid "Beyond Integers"
-msgstr ""
+msgstr "Além dos Inteiros"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Exploring different numeric types."
-msgstr ""
+msgstr "Explorando diferentes tipos numéricos."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:249
 #: c-intro-and-ref.texi:1482 c-intro-and-ref.texi:1483
 #, no-wrap
 msgid "Lexical Syntax"
-msgstr ""
+msgstr "Sintaxe Léxica"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "The various lexical components of C programs."
-msgstr ""
+msgstr "Os vários componentes léxicos dos programas da C."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:260
 #: c-intro-and-ref.texi:1859 c-intro-and-ref.texi:1860
 #, no-wrap
 msgid "Arithmetic"
-msgstr ""
+msgstr "Aritmético"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Numeric computations."
-msgstr ""
+msgstr "Computações numéricas."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:275
 #: c-intro-and-ref.texi:2525 c-intro-and-ref.texi:2526
 #, no-wrap
 msgid "Assignment Expressions"
-msgstr ""
+msgstr "Expressões de Atribuição"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Storing values in variables."
-msgstr ""
+msgstr "Armazenando valores em variáveis."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:286
 #: c-intro-and-ref.texi:3006 c-intro-and-ref.texi:3007
 #, no-wrap
 msgid "Execution Control Expressions"
-msgstr ""
+msgstr "Expressões de Controle de Execução"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Expressions combining values in various ways."
-msgstr ""
+msgstr "Expressões combinando valores de várias maneiras."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:3409
 #: c-intro-and-ref.texi:3410
 #, no-wrap
 msgid "Binary Operator Grammar"
-msgstr ""
+msgstr "Gramática do Operador Binário"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "An overview of operator precedence."
-msgstr ""
+msgstr "Uma visão geral do operador de precedência."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:294
 #: c-intro-and-ref.texi:3513 c-intro-and-ref.texi:3514
 #, no-wrap
 msgid "Order of Execution"
-msgstr ""
+msgstr "Ordem de Execução"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "The order of program execution."
-msgstr ""
+msgstr "A ordem da execução do programa."
 
 #. type: node
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:3773
 #, no-wrap
 msgid "Primitive Types"
-msgstr ""
+msgstr "Tipos Primitivos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "More details about primitive data types."
-msgstr ""
+msgstr "Mais detalhes acerca de tipos de dados primitivos."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:315
 #: c-intro-and-ref.texi:4250 c-intro-and-ref.texi:4251
 #, no-wrap
 msgid "Constants"
-msgstr ""
+msgstr "Constantes"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Explicit constant values: details and examples."
-msgstr ""
+msgstr "Valores de constantes explícitas: detalhes e exemplos."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:4911
 #: c-intro-and-ref.texi:4912
 #, no-wrap
 msgid "Type Size"
-msgstr ""
+msgstr "Tamanho do Tipo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "The memory space occupied by a type."
-msgstr ""
+msgstr "O espaço de memória ocupado por um tipo."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:331
 #: c-intro-and-ref.texi:5013 c-intro-and-ref.texi:5014
 #, no-wrap
 msgid "Pointers"
-msgstr ""
+msgstr "Ponteiros"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Creating and manipulating memory pointers."
-msgstr ""
+msgstr "Criando e manipulando ponteiros de memória."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:350
 #: c-intro-and-ref.texi:5864 c-intro-and-ref.texi:5865
 #, no-wrap
 msgid "Structures"
-msgstr ""
+msgstr "Estruturas"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Compound data types built by grouping other types."
-msgstr ""
+msgstr "Tipos de dados compostos construídos por grupamento de outros tipos."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:379
 #: c-intro-and-ref.texi:7128 c-intro-and-ref.texi:7129
 #, no-wrap
 msgid "Arrays"
-msgstr ""
+msgstr "Vetores"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Creating and manipulating arrays."
-msgstr ""
+msgstr "Criando e manipulando vetores."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:7718
 #: c-intro-and-ref.texi:7719
 #, no-wrap
 msgid "Enumeration Types"
-msgstr ""
+msgstr "Tipos de Enumeração"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Sets of integers with named values."
-msgstr ""
+msgstr "Conjuntos de inteiros com valores nominados."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:7821
 #: c-intro-and-ref.texi:7822
 #, no-wrap
 msgid "Defining Typedef Names"
-msgstr ""
+msgstr "Definindo Nomes de Definição de Tipos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Using @code{typedef} to define type names."
-msgstr ""
+msgstr "Usando @code{typedef} para definir nomes de tipo."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:390
 #: c-intro-and-ref.texi:7920 c-intro-and-ref.texi:7921
 #, no-wrap
 msgid "Statements"
-msgstr ""
+msgstr "Declarações"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Controlling program flow."
-msgstr ""
+msgstr "Controlando o fluxo do programa."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:410
 #: c-intro-and-ref.texi:9184 c-intro-and-ref.texi:9185
 #, no-wrap
 msgid "Variables"
-msgstr ""
+msgstr "Variáveis"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Details about declaring, initializing, and using variables."
-msgstr ""
+msgstr "Detalhes acerca de declarar, inicializar e usar variáveis."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:430
 #: c-intro-and-ref.texi:9881 c-intro-and-ref.texi:9882
 #, no-wrap
 msgid "Type Qualifiers"
-msgstr ""
+msgstr "Qualificadores de Tipo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Mark variables for certain intended uses."
-msgstr ""
+msgstr "Variáveis de marcação para certos usos pretendidos."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:439
 #: c-intro-and-ref.texi:10193 c-intro-and-ref.texi:10194
 #, no-wrap
 msgid "Functions"
-msgstr ""
+msgstr "Funções"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Declaring, defining, and calling functions."
-msgstr ""
+msgstr "declarando, definindo e chamando funções."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:11843
 #: c-intro-and-ref.texi:11844
 #, no-wrap
 msgid "Compatible Types"
-msgstr ""
+msgstr "Tipos Compatíveis"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "How to tell if two types are compatible with each other."
-msgstr ""
+msgstr "Como dizer se dois tipos forem compatíveis reciprocamente."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:448
 #: c-intro-and-ref.texi:11919 c-intro-and-ref.texi:11920
 #, no-wrap
 msgid "Type Conversions"
-msgstr ""
+msgstr "Conversões de Tipos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Converting between types."
-msgstr ""
+msgstr "Convertendo entre tipos."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:456
@@ -656,115 +674,115 @@ msgstr ""
 #: c-intro-and-ref.texi:12167
 #, no-wrap
 msgid "Scope"
-msgstr ""
+msgstr "Escopo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:458
 msgid "Different categories of identifier scope."
-msgstr ""
+msgstr "Diferentes categorias do escopo do identificador."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:460
 msgid "Preprocessing"
-msgstr ""
+msgstr "Préprocessamento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Using the GNU C preprocessor."
-msgstr ""
+msgstr "Usando o préprocessador GNU C"
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:473
 #: c-intro-and-ref.texi:12325 c-intro-and-ref.texi:12326
 #, no-wrap
 msgid "Integers in Depth"
-msgstr ""
+msgstr "Inteiros em Profundidade"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "How integer numbers are represented."
-msgstr ""
+msgstr "Como números inteiros são representados."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:478
 msgid "Floating Point in Depth"
-msgstr ""
+msgstr "Ponto Flutuante em Profundidade"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "How floating-point numbers are represented."
-msgstr ""
+msgstr "Como números de ponto flutuante são representados."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:12491
 #: c-intro-and-ref.texi:12492
 #, no-wrap
 msgid "Compilation"
-msgstr ""
+msgstr "Compilação"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "How to compile multi-file programs."
-msgstr ""
+msgstr "Como compilar programas multi arquivos."
 
 #. type: chapter
 #: c-intro-and-ref.texi:219 c-intro-and-ref.texi:505
 #: c-intro-and-ref.texi:12570 c-intro-and-ref.texi:12571
 #, no-wrap
 msgid "Directing Compilation"
-msgstr ""
+msgstr "Direcionando Compilação"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:219
 msgid "Operations that affect compilation but don't change the program."
-msgstr ""
+msgstr "Operações que afetam compilação, porém não mudam o programa."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:221
 msgid "Appendices"
-msgstr ""
+msgstr "Apêndices"
 
 #. type: appendix
 #: c-intro-and-ref.texi:232 c-intro-and-ref.texi:12938
 #: c-intro-and-ref.texi:12939
 #, no-wrap
 msgid "Type Alignment"
-msgstr ""
+msgstr "Alinhamento de Tipo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:232
 msgid "Where in memory a type can validly start."
-msgstr ""
+msgstr "Onde na memória um tipo consegue validamente iniciar."
 
 #. type: appendix
 #: c-intro-and-ref.texi:232 c-intro-and-ref.texi:13028
 #: c-intro-and-ref.texi:13029
 #, no-wrap
 msgid "Aliasing"
-msgstr ""
+msgstr "Apelidamento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:232
 msgid "Accessing the same data in two types."
-msgstr ""
+msgstr "Acessando os mesmos dados em dois tipos."
 
 #. type: appendix
 #: c-intro-and-ref.texi:232 c-intro-and-ref.texi:258
 #: c-intro-and-ref.texi:13234 c-intro-and-ref.texi:13235
 #, no-wrap
 msgid "Digraphs"
-msgstr ""
+msgstr "Digrafos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:232
 msgid "Two-character aliases for some characters."
-msgstr ""
+msgstr "Apelidos de dois caracteres para alguns caracteres."
 
 #. type: node
 #: c-intro-and-ref.texi:232 c-intro-and-ref.texi:13258
 #, no-wrap
 msgid "Attributes"
-msgstr ""
+msgstr "Atributos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:232

@@ -787,547 +787,550 @@ msgstr "Atributos"
 #. type: menuentry
 #: c-intro-and-ref.texi:232
 msgid "Specifying additional information in a declaration."
-msgstr ""
+msgstr "Especificando-se informações adicionais em uma declaração."
 
 #. type: appendix
 #: c-intro-and-ref.texi:232 c-intro-and-ref.texi:13342
 #: c-intro-and-ref.texi:13343
 #, no-wrap
 msgid "Signals"
-msgstr ""
+msgstr "Sinais"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:232
 msgid "Fatal errors triggered in various scenarios."
-msgstr ""
+msgstr "Erros fatais deflagrados em vários cenários."
 
 #. type: appendix
 #: c-intro-and-ref.texi:232 c-intro-and-ref.texi:13386
 #: c-intro-and-ref.texi:13387
 #, no-wrap
 msgid "GNU Free Documentation License"
-msgstr ""
+msgstr "Licença GNU de Documentação Livre"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:232
 msgid "The license for this manual."
-msgstr ""
+msgstr "A licença para este manual."
 
 #. type: appendix
 #: c-intro-and-ref.texi:232 c-intro-and-ref.texi:13391
 #: c-intro-and-ref.texi:13392
 #, no-wrap
 msgid "GNU General Public License"
-msgstr ""
+msgstr "Licença GNU Geral e Pública"
 
 #. type: node
 #: c-intro-and-ref.texi:232 c-intro-and-ref.texi:13396
 #, no-wrap
 msgid "Symbol Index"
-msgstr ""
+msgstr "Índice de Símbolos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:232
 msgid "Keyword and symbol index."
-msgstr ""
+msgstr "Índice de palavras-chave e de símbolos."
 
 #. type: unnumbered
 #: c-intro-and-ref.texi:232 c-intro-and-ref.texi:13401
 #: c-intro-and-ref.texi:13402
 #, no-wrap
 msgid "Concept Index"
-msgstr ""
+msgstr "Índice de Conceitos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:232
 msgid "Detailed topical index."
-msgstr ""
+msgstr "Índice tópico detalhado."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:235
 msgid "--- The Detailed Node Listing ---"
-msgstr ""
+msgstr "--- A Listagem Detalhada de Nós ---"
 
 #. type: node
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:528
 #: c-intro-and-ref.texi:530
 #, no-wrap
 msgid "Recursive Fibonacci"
-msgstr ""
+msgstr "Fibonacci Recursivo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:528
 msgid "Writing a simple function recursively."
-msgstr ""
+msgstr "Escrevendo-se uma função simples recursivamente."
 
 #. type: node
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:528
 #: c-intro-and-ref.texi:750
 #, no-wrap
 msgid "Stack"
-msgstr ""
+msgstr "Pilha"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:528
 msgid "Each function call uses space in the stack."
-msgstr ""
+msgstr "Cada chamada de função usa espaço na pilha."
 
 #. type: node
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:528
 #: c-intro-and-ref.texi:805
 #, no-wrap
 msgid "Iterative Fibonacci"
-msgstr ""
+msgstr "Fibonacci Interativo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:528
 msgid "Writing the same function iteratively."
-msgstr ""
+msgstr "Escrevendo-se a mesma função interativamente."
 
 #. type: node
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1006
 #: c-intro-and-ref.texi:1008
 #, no-wrap
 msgid "Complete Example"
-msgstr ""
+msgstr "Exemplo Completo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1006
 msgid "Turn the simple function into a full program."
-msgstr ""
+msgstr "Converter a função simples em um programa completo."
 
 #. type: node
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1006
 #: c-intro-and-ref.texi:1040
 #, no-wrap
 msgid "Complete Explanation"
-msgstr ""
+msgstr "Explicação Completa"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1006
 msgid "Explanation of each part of the example."
-msgstr ""
+msgstr "Explicação de cada parte do exemplo."
 
 #. type: node
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1006
 #: c-intro-and-ref.texi:1116
 #, no-wrap
 msgid "Complete Line-by-Line"
-msgstr ""
+msgstr "Linha-por-Linha Completo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1006
 msgid "Explaining each line of the example."
-msgstr ""
+msgstr "Explicando cada linha do exemplo."
 
 #. type: node
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1006
 #: c-intro-and-ref.texi:1150
 #, no-wrap
 msgid "Compile Example"
-msgstr ""
+msgstr "Exemplo de Compilar"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1006
 msgid "Using GCC to compile the example."
-msgstr ""
+msgstr "Usando GCC para compilar o exemplo."
 
 #. type: node
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1239
 #: c-intro-and-ref.texi:1241
 #, no-wrap
 msgid "Float Example"
-msgstr ""
+msgstr "Exemplo de Flutuante"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1239
 msgid "A function that uses floating-point numbers."
-msgstr ""
+msgstr "Uma função que usa números de ponto flutuante."
 
 #. type: node
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1239
 #: c-intro-and-ref.texi:1303
 #, no-wrap
 msgid "Array Example"
-msgstr ""
+msgstr "Exemplo de Vetor"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1239
 msgid "A function that works with arrays."
-msgstr ""
+msgstr "Uma função que funciona com vetores."
 
 #. type: node
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1239
 #: c-intro-and-ref.texi:1359
 #, no-wrap
 msgid "Array Example Call"
-msgstr ""
+msgstr "Chamada Exemplo de Vetor"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1239
 msgid "How to call that function."
-msgstr ""
+msgstr "Como chamar essa função."
 
 #. type: node
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1239
 #: c-intro-and-ref.texi:1421
 #, no-wrap
 msgid "Array Example Variations"
-msgstr ""
+msgstr "Variações Exemplo de Vetor"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:247 c-intro-and-ref.texi:1239
 msgid "Different ways to write the call example."
-msgstr ""
+msgstr "Maneiras diferentes para se escrever o exemplo de chamada."
 
 #. type: node
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 #: c-intro-and-ref.texi:1505
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Inglês"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 msgid "Write programs in English!"
-msgstr ""
+msgstr "Escreva programas em Inglês!"
 
 #. type: section
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 #: c-intro-and-ref.texi:1539 c-intro-and-ref.texi:1540
 #, no-wrap
 msgid "Characters"
-msgstr ""
+msgstr "Caracteres"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 msgid "The characters allowed in C programs."
-msgstr ""
+msgstr "Os caracteres permitidos em programas da C."
 
 #. type: section
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 #: c-intro-and-ref.texi:1571 c-intro-and-ref.texi:1572
 #, no-wrap
 msgid "Whitespace"
-msgstr ""
+msgstr "Espaço em branco"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 msgid "The particulars of whitespace characters."
-msgstr ""
+msgstr "As particularidades dos caracteres de espaço em branco."
 
 #. type: section
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 #: c-intro-and-ref.texi:1614 c-intro-and-ref.texi:1615
 #, no-wrap
 msgid "Comments"
-msgstr ""
+msgstr "Comentários"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 msgid "How to include comments in C code."
-msgstr ""
+msgstr "Como incluir comentários no código da C."
 
 #. type: section
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 #: c-intro-and-ref.texi:1711 c-intro-and-ref.texi:1712
 #, no-wrap
 msgid "Identifiers"
-msgstr ""
+msgstr "Identificadores"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 msgid "How to form identifiers (names)."
-msgstr ""
+msgstr "Como formar identificadores (nomes)."
 
 #. type: node
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 #: c-intro-and-ref.texi:1748
 #, no-wrap
 msgid "Operators/Punctuation"
-msgstr ""
+msgstr "Operadores/Pontuação"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 msgid "Characters used as operators or punctuation."
-msgstr ""
+msgstr "Caracteres usados como operadores ou como pontuação."
 
 #. type: section
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 #: c-intro-and-ref.texi:1816 c-intro-and-ref.texi:1817
 #, no-wrap
 msgid "Line Continuation"
-msgstr ""
+msgstr "Continuação de Linha"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:258 c-intro-and-ref.texi:1503
 msgid "Splitting one line into multiple lines."
-msgstr ""
+msgstr "Dividind-se uma linha em múltiplas linhas."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:258
 msgid "Two-character substitutes for some characters."
-msgstr ""
+msgstr "Substitutos de dois caracteres para alguns caracteres."
 
 #. type: section
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 #: c-intro-and-ref.texi:1908 c-intro-and-ref.texi:1909
 #, no-wrap
 msgid "Basic Arithmetic"
-msgstr ""
+msgstr "Aritmética Básica"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 msgid "Addition, subtraction, multiplication, and division."
-msgstr ""
+msgstr "Adição, subtração, multiplicação e divisão."
 
 #. type: section
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 #: c-intro-and-ref.texi:1951 c-intro-and-ref.texi:1952
 #, no-wrap
 msgid "Integer Arithmetic"
-msgstr ""
+msgstr "Aritmética de Inteiros"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 msgid "How C performs arithmetic with integer values."
-msgstr ""
+msgstr "Como C realiza aritmética com valores inteiros."
 
 #. type: section
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 #: c-intro-and-ref.texi:2001 c-intro-and-ref.texi:2002
 #, no-wrap
 msgid "Integer Overflow"
-msgstr ""
+msgstr "Estouro de Inteiro"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 msgid "When an integer value exceeds the range of its type."
-msgstr ""
+msgstr "Quando um valor inteiro excede o intervalo do tipo dele."
 
 #. type: node
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 #: c-intro-and-ref.texi:2133
 #, no-wrap
 msgid "Mixed Mode"
-msgstr ""
+msgstr "Modo Misturado"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 msgid "Calculating with both integer values and floating-point values."
-msgstr ""
+msgstr "Calculando com ambos, valores inteiros e valores de ponto flutuante."
 
 #. type: section
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 #: c-intro-and-ref.texi:2159 c-intro-and-ref.texi:2160
 #, no-wrap
 msgid "Division and Remainder"
-msgstr ""
+msgstr "Divisão e Resto"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 msgid "How integer division works."
-msgstr ""
+msgstr "Como divisão de inteiros funciona."
 
 #. type: section
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 #: c-intro-and-ref.texi:2240 c-intro-and-ref.texi:2241
 #, no-wrap
 msgid "Numeric Comparisons"
-msgstr ""
+msgstr "Comparações Numéricas"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 msgid "Comparing numeric values for equality or order."
-msgstr ""
+msgstr "Comparando-se valores numéricos para igualdade ou ordem."
 
 #. type: section
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 #: c-intro-and-ref.texi:2288 c-intro-and-ref.texi:2289
 #, no-wrap
 msgid "Shift Operations"
-msgstr ""
+msgstr "Operações de Deslocamento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 msgid "Shift integer bits left or right."
-msgstr ""
+msgstr "Bits de deslocamento de inteiros esquerda ou direita."
 
 #. type: section
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 #: c-intro-and-ref.texi:2434 c-intro-and-ref.texi:2435
 #, no-wrap
 msgid "Bitwise Operations"
-msgstr ""
+msgstr "Operações bit a bit"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:273 c-intro-and-ref.texi:1906
 msgid "Bitwise conjunction, disjunction, negation."
-msgstr ""
+msgstr "Conjunção, disjunção, negação, bit a bit."
 
 #. type: section
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 #: c-intro-and-ref.texi:2597 c-intro-and-ref.texi:2598
 #, no-wrap
 msgid "Simple Assignment"
-msgstr ""
+msgstr "Atribuição Simples"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 msgid "The basics of storing a value."
-msgstr ""
+msgstr "Os básicos de armazenar-se um valor."
 
 #. type: section
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 #: c-intro-and-ref.texi:2640 c-intro-and-ref.texi:2641
 #, no-wrap
 msgid "Lvalues"
-msgstr ""
+msgstr "ValoresL"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 msgid "Expressions into which a value can be stored."
-msgstr ""
+msgstr "Expressões nas quais um valor pode ser armazenado."
 
 #. type: section
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 #: c-intro-and-ref.texi:2701 c-intro-and-ref.texi:2702
 #, no-wrap
 msgid "Modifying Assignment"
-msgstr ""
+msgstr "Modificando-se Atribuição"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 msgid "Shorthand for changing an lvalue's contents."
-msgstr ""
+msgstr "Atalho para mudar-se um conteúdo do valorl."
 
 #. type: node
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 #: c-intro-and-ref.texi:2785
 #, no-wrap
 msgid "Increment/Decrement"
-msgstr ""
+msgstr "Incremento/Decremento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 msgid "Shorthand for incrementing and decrementing an lvalue's contents."
 msgstr ""
+"Atalho para incrementar-se e para decrementar-se um conteúdo do valorl."
 
 #. type: node
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 #: c-intro-and-ref.texi:2842
 #, no-wrap
 msgid "Postincrement/Postdecrement"
-msgstr ""
+msgstr "Pósincremento/Pósdecremento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 msgid "Accessing then incrementing or decrementing."
-msgstr ""
+msgstr "Acessando-se e a seguir incrementando-se ou decrementando-se."
 
 #. type: node
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 #: c-intro-and-ref.texi:2919
 #, no-wrap
 msgid "Assignment in Subexpressions"
-msgstr ""
+msgstr "Atribuição em Subexpressões"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 msgid "How to avoid ambiguity."
-msgstr ""
+msgstr "Como evitar ambiguidade."
 
 #. type: node
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 #: c-intro-and-ref.texi:2965
 #, no-wrap
 msgid "Write Assignments Separately"
-msgstr ""
+msgstr "Escreva Atribuições Separadamente"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:284 c-intro-and-ref.texi:2595
 msgid "Write assignments as separate statements."
-msgstr ""
+msgstr "Escreva atribuições como declarações separadas."
 
 #. type: section
 #: c-intro-and-ref.texi:292 c-intro-and-ref.texi:3020
 #: c-intro-and-ref.texi:3022 c-intro-and-ref.texi:3023
 #, no-wrap
 msgid "Logical Operators"
-msgstr ""
+msgstr "Operadores Lógicos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:292 c-intro-and-ref.texi:3020
 msgid "Logical conjunction, disjunction, negation."
-msgstr ""
+msgstr "Conjunção, disjunção, negação, lógicas."
 
 #. type: node
 #: c-intro-and-ref.texi:292 c-intro-and-ref.texi:3020
 #: c-intro-and-ref.texi:3076
 #, no-wrap
 msgid "Logicals and Comparison"
-msgstr ""
+msgstr "Lógicas e Comparação"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:292 c-intro-and-ref.texi:3020
 msgid "Logical operators with comparison operators."
-msgstr ""
+msgstr "Operadores lógicos com operadores de comparação."
 
 #. type: node
 #: c-intro-and-ref.texi:292 c-intro-and-ref.texi:3020
 #: c-intro-and-ref.texi:3117
 #, no-wrap
 msgid "Logicals and Assignments"
-msgstr ""
+msgstr "Lógicos e Atribuições"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:292 c-intro-and-ref.texi:3020
 msgid "Assignments with logical operators."
-msgstr ""
+msgstr "Atribuições com operadores lógicos."
 
 #. type: section
 #: c-intro-and-ref.texi:292 c-intro-and-ref.texi:3020
 #: c-intro-and-ref.texi:3157 c-intro-and-ref.texi:3158
 #, no-wrap
 msgid "Conditional Expression"
-msgstr ""
+msgstr "Expressão Condicional"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:292 c-intro-and-ref.texi:3020
 msgid "An if/else construct inside expressions."
-msgstr ""
+msgstr "Um constructo if/else dentro de expressões."
 
 #. type: section
 #: c-intro-and-ref.texi:292 c-intro-and-ref.texi:3020
 #: c-intro-and-ref.texi:3277 c-intro-and-ref.texi:3278
 #, no-wrap
 msgid "Comma Operator"
-msgstr ""
+msgstr "Operador Vírgula"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:292 c-intro-and-ref.texi:3020
 msgid "Build a sequence of subexpressions."
-msgstr ""
+msgstr "Construir um sequencia de subexpressões"
 
 #. type: section
 #: c-intro-and-ref.texi:305 c-intro-and-ref.texi:3531
 #: c-intro-and-ref.texi:3533 c-intro-and-ref.texi:3534
 #, no-wrap
 msgid "Reordering of Operands"
-msgstr ""
+msgstr "Reordenamento de Operandos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:305 c-intro-and-ref.texi:3531
 msgid ""
 "Operations in C are not necessarily computed in the order they are written."
 msgstr ""
+"Operações na C não são necessariamente computadas na ordem em que são "
+"escritas."
 
 #. type: section
 #: c-intro-and-ref.texi:305 c-intro-and-ref.texi:3531
 #: c-intro-and-ref.texi:3566 c-intro-and-ref.texi:3567
 #, no-wrap
 msgid "Associativity and Ordering"
-msgstr ""
+msgstr "Associatividade e Ordenamento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:305 c-intro-and-ref.texi:3531
@@ -1335,49 +1338,51 @@ msgid ""
 "Some associative operations are performed in a particular order; others are "
 "not."
 msgstr ""
+"Algumas operações associativas são realizadas em uma ordem específica; "
+"outras não."
 
 #. type: section
 #: c-intro-and-ref.texi:305 c-intro-and-ref.texi:3531
 #: c-intro-and-ref.texi:3612 c-intro-and-ref.texi:3613
 #, no-wrap
 msgid "Sequence Points"
-msgstr ""
+msgstr "Pontos de Sequência"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:305 c-intro-and-ref.texi:3531
 msgid "Some guarantees about the order of operations."
-msgstr ""
+msgstr "Algumas garantias acerca da ordem das operações."
 
 #. type: section
 #: c-intro-and-ref.texi:305 c-intro-and-ref.texi:3531
 #: c-intro-and-ref.texi:3662 c-intro-and-ref.texi:3663
 #, no-wrap
 msgid "Postincrement and Ordering"
-msgstr ""
+msgstr "Pósincremento e Ordenamento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:305 c-intro-and-ref.texi:3531
 msgid "Ambiguous execution order with postincrement."
-msgstr ""
+msgstr "Ordem ambígua de execução com pósincremento."
 
 #. type: section
 #: c-intro-and-ref.texi:305 c-intro-and-ref.texi:3531
 #: c-intro-and-ref.texi:3701 c-intro-and-ref.texi:3702
 #, no-wrap
 msgid "Ordering of Operands"
-msgstr ""
+msgstr "Ordenamento de Operandos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:305 c-intro-and-ref.texi:3531
 msgid "Evaluation order of operands and function arguments."
-msgstr ""
+msgstr "Ordem de avaliação de operandos e de argumentos de função."
 
 #. type: section
 #: c-intro-and-ref.texi:305 c-intro-and-ref.texi:3531
 #: c-intro-and-ref.texi:3740 c-intro-and-ref.texi:3741
 #, no-wrap
 msgid "Optimization and Ordering"
-msgstr ""
+msgstr "Otimização e Ordenamento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:305 c-intro-and-ref.texi:3531
@@ -1385,180 +1390,182 @@ msgid ""
 "Compiler optimizations can reorder operations only if it has no impact on "
 "program results."
 msgstr ""
+"Otimizações de compilador somente conseguem reordenar operações se elas "
+"não tiverem impacto sobre os resultados do programa."
 
 #. type: chapter
 #: c-intro-and-ref.texi:307 c-intro-and-ref.texi:3774
 #, no-wrap
 msgid "Primitive Data Types"
-msgstr ""
+msgstr "Tipos Primitivos de Dados"
 
 #. type: node
 #: c-intro-and-ref.texi:313 c-intro-and-ref.texi:3789
 #: c-intro-and-ref.texi:3793
 #, no-wrap
 msgid "Integer Types"
-msgstr ""
+msgstr "Tipos de Inteiros"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:313 c-intro-and-ref.texi:3789
 msgid "Description of integer types."
-msgstr ""
+msgstr "Descrição dos tipos de inteiros."
 
 #. type: section
 #: c-intro-and-ref.texi:313 c-intro-and-ref.texi:3789
 #: c-intro-and-ref.texi:4016 c-intro-and-ref.texi:4017
 #, no-wrap
 msgid "Floating-Point Data Types"
-msgstr ""
+msgstr "Tipos de Dados de Ponto Flutuante"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:313 c-intro-and-ref.texi:3789
 msgid "Description of floating-point types."
-msgstr ""
+msgstr "Descrição dos tipos de ponto flutuante."
 
 #. type: section
 #: c-intro-and-ref.texi:313 c-intro-and-ref.texi:3789
 #: c-intro-and-ref.texi:4075 c-intro-and-ref.texi:4076
 #, no-wrap
 msgid "Complex Data Types"
-msgstr ""
+msgstr "Tipos Complexos de Dados"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:313 c-intro-and-ref.texi:3789
 msgid "Description of complex number types."
-msgstr ""
+msgstr "descrição dos tipos complexos de números."
 
 #. type: section
 #: c-intro-and-ref.texi:313 c-intro-and-ref.texi:3789
 #: c-intro-and-ref.texi:4144 c-intro-and-ref.texi:4145
 #, no-wrap
 msgid "The Void Type"
-msgstr ""
+msgstr "O Tipo Void"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:313 c-intro-and-ref.texi:3789
 msgid "A type indicating no value at all."
-msgstr ""
+msgstr "Um tipo indicando nenhum valor em absoluto."
 
 #. type: section
 #: c-intro-and-ref.texi:313 c-intro-and-ref.texi:3789
 #: c-intro-and-ref.texi:4176 c-intro-and-ref.texi:4177
 #, no-wrap
 msgid "Other Data Types"
-msgstr ""
+msgstr "Outros Tipos de Dados"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:313 c-intro-and-ref.texi:3789
 msgid "A brief summary of other types."
-msgstr ""
+msgstr "Um breve sumário de outros tipos."
 
 #. type: section
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 #: c-intro-and-ref.texi:4275 c-intro-and-ref.texi:4276
 #, no-wrap
 msgid "Integer Constants"
-msgstr ""
+msgstr "Constantes de Inteiros"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 msgid "Literal integer values."
-msgstr ""
+msgstr "Valores de inteiros literais."
 
 #. type: node
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 #: c-intro-and-ref.texi:4332
 #, no-wrap
 msgid "Integer Const Type"
-msgstr ""
+msgstr "Tipo Inteiro Const"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 msgid "Types of literal integer values."
-msgstr ""
+msgstr "Tipos de valores de inteiros literais."
 
 #. type: node
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 #: c-intro-and-ref.texi:4394
 #, no-wrap
 msgid "Floating Constants"
-msgstr ""
+msgstr "Constantes Flutuantes"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 msgid "Literal floating-point values."
-msgstr ""
+msgstr "Valores de ponto flutuante literal."
 
 #. type: section
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 #: c-intro-and-ref.texi:4483 c-intro-and-ref.texi:4484
 #, no-wrap
 msgid "Imaginary Constants"
-msgstr ""
+msgstr "Constantes Imaginárias"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 msgid "Literal imaginary number values."
-msgstr ""
+msgstr "Valores de números imaginários literais."
 
 #. type: section
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 #: c-intro-and-ref.texi:4531 c-intro-and-ref.texi:4532
 #, no-wrap
 msgid "Invalid Numbers"
-msgstr ""
+msgstr "Números Inválidos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 msgid "Avoiding preprocessing number misconceptions."
-msgstr ""
+msgstr "Evitando-se mal entendidos sobre números de pré-processamento."
 
 #. type: section
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 #: c-intro-and-ref.texi:4545 c-intro-and-ref.texi:4546
 #, no-wrap
 msgid "Character Constants"
-msgstr ""
+msgstr "Constantes de Caracteres"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 msgid "Literal character values."
-msgstr ""
+msgstr "Valores de caracteres literais."
 
 #. type: section
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 #: c-intro-and-ref.texi:4752 c-intro-and-ref.texi:4753
 #, no-wrap
 msgid "Unicode Character Codes"
-msgstr ""
+msgstr "Códigos de Caracteres Unicode"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 msgid "Unicode characters represented in either UTF-16 or UTF-32."
-msgstr ""
+msgstr "Caracteres Unicode representados seja em UTF-16 seja em UTF-32."
 
 #. type: section
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 #: c-intro-and-ref.texi:4819 c-intro-and-ref.texi:4820
 #, no-wrap
 msgid "Wide Character Constants"
-msgstr ""
+msgstr "Constantes de Caracteres Largos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 msgid "Literal characters values larger than 8 bits."
-msgstr ""
+msgstr "Valores de caracteres literais mais largos que 8 bits."
 
 #. type: section
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 #: c-intro-and-ref.texi:4622 c-intro-and-ref.texi:4623
 #, no-wrap
 msgid "String Constants"
-msgstr ""
+msgstr "Constantes de Sequências de Caracteres"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 msgid "Literal string values."
-msgstr ""
+msgstr "Valores de sequências de caracteres literais."
 
 #. type: cindex
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
@@ -1566,84 +1573,86 @@ msgstr ""
 #: c-intro-and-ref.texi:4733
 #, no-wrap
 msgid "UTF-8 String Constants"
-msgstr ""
+msgstr "Constantes de Sequência de Caracteres UTF-8"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 msgid "Literal UTF-8 string values."
-msgstr ""
+msgstr "Valores de sequência de caracteres UTF-8 literal"
 
 #. type: section
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 #: c-intro-and-ref.texi:4857 c-intro-and-ref.texi:4858
 #, no-wrap
 msgid "Wide String Constants"
-msgstr ""
+msgstr "Constantes de Sequência de Caracteres Largos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:329 c-intro-and-ref.texi:4273
 msgid "Literal string values made up of 16- or 32-bit characters."
 msgstr ""
+"Valores de sequência de caracteres literais compostos de caracteres de até "
+"16 ou de 32 bits."
 
 #. type: section
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5052 c-intro-and-ref.texi:5053
 #, no-wrap
 msgid "Address of Data"
-msgstr ""
+msgstr "Endereço de Dados"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Using the ``address-of'' operator."
-msgstr ""
+msgstr "Usando-se o operador ``address-of''."
 
 #. type: section
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5078 c-intro-and-ref.texi:5079
 #, no-wrap
 msgid "Pointer Types"
-msgstr ""
+msgstr "Tipos de Ponteiro"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "For each type, there is a pointer type."
-msgstr ""
+msgstr "Para cada tipo, existe um tipo de ponteiro."
 
 #. type: node
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5103
 #, no-wrap
 msgid "Pointer Declarations"
-msgstr ""
+msgstr "Declarações de Ponteiro"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Declaring variables with pointer types."
-msgstr ""
+msgstr "Declarando-se variáveis com tipos de ponteiro."
 
 #. type: node
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5144
 #, no-wrap
 msgid "Pointer Type Designators"
-msgstr ""
+msgstr "Designadores de Tipo de Ponteiro"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Designators for pointer types."
-msgstr ""
+msgstr "Designadores para tipos de ponteiro."
 
 #. type: node
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5166
 #, no-wrap
 msgid "Pointer Dereference"
-msgstr ""
+msgstr "Desreferência de Ponteiro"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Accessing what a pointer points at."
-msgstr ""
+msgstr "Acessando-se o que aponta um ponteiro."
 
 #. type: section
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050

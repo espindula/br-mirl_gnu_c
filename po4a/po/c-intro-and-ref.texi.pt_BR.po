@@ -1659,204 +1659,204 @@ msgstr "Acessando-se o que aponta um ponteiro."
 #: c-intro-and-ref.texi:5230 c-intro-and-ref.texi:5231
 #, no-wrap
 msgid "Null Pointers"
-msgstr ""
+msgstr "Ponteiros Nulos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Pointers which do not point to any object."
-msgstr ""
+msgstr "Ponteiros que não apontam para nenhum objeto."
 
 #. type: node
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5286
 #, no-wrap
 msgid "Invalid Dereference"
-msgstr ""
+msgstr "Desreferência Inválida"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Dereferencing null or invalid pointers."
-msgstr ""
+msgstr "Desreferenciando ponteiros nulos ou inválidos."
 
 #. type: section
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5323 c-intro-and-ref.texi:5324
 #, no-wrap
 msgid "Void Pointers"
-msgstr ""
+msgstr "Ponteiros Void"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Totally generic pointers, can cast to any."
-msgstr ""
+msgstr "Ponteiros totalmente genéricos, pode lançar para qualquer."
 
 #. type: section
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5406 c-intro-and-ref.texi:5407
 #, no-wrap
 msgid "Pointer Comparison"
-msgstr ""
+msgstr "Comparação de Ponteiros"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Comparing memory address values."
-msgstr ""
+msgstr "Comparando valores de endereço de memória."
 
 #. type: section
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5450 c-intro-and-ref.texi:5451
 #, no-wrap
 msgid "Pointer Arithmetic"
-msgstr ""
+msgstr "Aritmética de Ponteiros"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Computing memory address values."
-msgstr ""
+msgstr "Computando valores de endereço de memória."
 
 #. type: section
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5569 c-intro-and-ref.texi:5570
 #, no-wrap
 msgid "Pointers and Arrays"
-msgstr ""
+msgstr "Ponteiros e Vetores"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Using pointer syntax instead of array syntax."
-msgstr ""
+msgstr "Usando sintaxe de ponteiro em vez de sintaxe de vetor."
 
 #. type: node
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5606
 #, no-wrap
 msgid "Low-Level Pointer Arithmetic"
-msgstr ""
+msgstr "Aritmética de Ponteiro de Baixo Nível"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "More about computing memory address values."
-msgstr ""
+msgstr "Mais acerca de computar valor de endereço de memória."
 
 #. type: node
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5655
 #, no-wrap
 msgid "Pointer Increment/Decrement"
-msgstr ""
+msgstr "Incremento/Decremento de Ponteiro"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Incrementing and decrementing pointers."
-msgstr ""
+msgstr "Incrementando e decrementando ponteiros."
 
 #. type: node
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5769
 #, no-wrap
 msgid "Pointer Arithmetic Drawbacks"
-msgstr ""
+msgstr "Desvantagens da Aritmética de Ponteiro"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "A common pointer bug to watch out for."
-msgstr ""
+msgstr "Um defeito comum de ponteiro a ser observado."
 
 #. type: section
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5807 c-intro-and-ref.texi:5808
 #, no-wrap
 msgid "Pointer-Integer Conversion"
-msgstr ""
+msgstr "Conversão Ponteiro-Inteiro"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Converting pointer types to integer types."
-msgstr ""
+msgstr "Convertendo tipos de ponteiro para tipos de inteiro."
 
 #. type: section
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 #: c-intro-and-ref.texi:5846 c-intro-and-ref.texi:5847
 #, no-wrap
 msgid "Printing Pointers"
-msgstr ""
+msgstr "Imprimindo Ponteiros"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:348 c-intro-and-ref.texi:5050
 msgid "Using @code{printf} for a pointer's value."
-msgstr ""
+msgstr "Usando @code{printf} para um valor de ponteiro."
 
 #. type: node
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:5990
 #, no-wrap
 msgid "Referencing Fields"
-msgstr ""
+msgstr "Referenciando Campos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Accessing field values in a structure object."
-msgstr ""
+msgstr "Acessando valores de compos em um objeto de estrutura."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6046 c-intro-and-ref.texi:6047
 #, no-wrap
 msgid "Arrays as Fields"
-msgstr ""
+msgstr "Vetores como Campos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Accessing arrays as structure fields."
-msgstr ""
+msgstr "Acessando vetores como campos de estrutura."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6076 c-intro-and-ref.texi:6077
 #, no-wrap
 msgid "Dynamic Memory Allocation"
-msgstr ""
+msgstr "Alocação Dinâmica de Memória"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Allocating space for objects while the program is running."
-msgstr ""
+msgstr "Alocando espaço para objetos enquanto o programa está executando."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6167 c-intro-and-ref.texi:6168
 #, no-wrap
 msgid "Field Offset"
-msgstr ""
+msgstr "Deslocamento de Campo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Memory layout of fields within a structure."
-msgstr ""
+msgstr "Esquema de memória dos campos dentro de uma estrutura."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6194 c-intro-and-ref.texi:6195
 #, no-wrap
 msgid "Structure Layout"
-msgstr ""
+msgstr "Esquema de Estrutura"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Planning the memory layout of fields."
-msgstr ""
+msgstr "Planejando o esquema de memória dos compos."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6263 c-intro-and-ref.texi:6264
 #, no-wrap
 msgid "Packed Structures"
-msgstr ""
+msgstr "Estruturas Empacotadas"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Packing structure fields as close as possible."
-msgstr ""
+msgstr "Empacotando compos de estrutura tão próximo quanto possível."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988

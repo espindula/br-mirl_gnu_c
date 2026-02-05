@@ -1929,7 +1929,7 @@ msgstr "Estruturas de Sobreposição"
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Casting one structure type over an object of another structure type."
 msgstr ""
-"Converter um tipo de estrutura sobre um objeto de outro tipo de estrutura."
+"Moldando um tipo de estrutura sobre um objeto de outro tipo de estrutura."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
@@ -1974,7 +1974,7 @@ msgstr ""
 #: c-intro-and-ref.texi:6772
 #, no-wrap
 msgid "Cast to Union"
-msgstr "Computar para União"
+msgstr "Molde para União"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
@@ -1982,7 +1982,7 @@ msgid ""
 "Casting a value one of the union's alternative types to the type of the "
 "union itself."
 msgstr ""
-"Computar um valor um dos tipos alternativos da união para o tipo da "
+"Moldando um valor um dos tipos alternativos da união para o tipo da "
 "própria união."
 
 #. type: section
@@ -2244,7 +2244,7 @@ msgstr "Um exemplo plausível de usar-se @code{switch}."
 #: c-intro-and-ref.texi:8677
 #, no-wrap
 msgid "Duffs Device"
-msgstr "Dispositivo Duffs"
+msgstr "Dispositivo de Duff"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
@@ -2841,22 +2841,22 @@ msgstr "Problemas de Arredondamento"
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Avoid magnifying rounding errors."
-msgstr ""
+msgstr "Evite aumentar erros de arredondamento."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Significance Loss"
-msgstr ""
+msgstr "Perda de Significância"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Subtracting numbers that are almost equal."
-msgstr ""
+msgstr "Subtraindo números que são quase iguais."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Fused Multiply-Add"
-msgstr ""
+msgstr "Multiplicação-Adição Fundida"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
@@ -2864,81 +2864,83 @@ msgid ""
 "Taking advantage of a special floating-point instruction for faster "
 "execution."
 msgstr ""
+"Tirando vantagem de uma instrução especial de ponto flutuante para uma "
+"execução mais rápida."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Error Recovery"
-msgstr ""
+msgstr "Recuperação do Erro"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Determining rounding errors."
-msgstr ""
+msgstr "Determinando erros de arredondamento."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Exact Floating Constants"
-msgstr ""
+msgstr "Constantes Flutuantes Exatas"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Precisely specified floating-point numbers."
-msgstr ""
+msgstr "Números de ponto flutuante precisamente especificados."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Handling Infinity"
-msgstr ""
+msgstr "Manuseando Infinidade"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "When floating calculation is out of range."
-msgstr ""
+msgstr "Quando cálculo flutuante está fora de intervalo."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Handling NaN"
-msgstr ""
+msgstr "Manuseando NaN"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "What floating calculation is undefined."
-msgstr ""
+msgstr "Quando cálculo flutuante é indefinido."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Signed Zeros"
-msgstr ""
+msgstr "Zeros Sinalizados"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Positive zero vs. negative zero."
-msgstr ""
+msgstr "Zero positivo versus zero negativo."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Scaling by the Base"
-msgstr ""
+msgstr "Escalando pela Base"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "A useful exact floating-point operation."
-msgstr ""
+msgstr "Uma operação de ponto flutuante exata e útil"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Rounding Control"
-msgstr ""
+msgstr "Controle de Arredondamento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Specifying some rounding behaviors."
-msgstr ""
+msgstr "Especificando alguns comportamentos de arredondamento."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Machine Epsilon"
-msgstr ""
+msgstr "Y de Máquina"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
@@ -2946,60 +2948,62 @@ msgid ""
 "The smallest number you can add to 1.0 and get a sum which is larger than "
 "1.0."
 msgstr ""
+"O menor número que você consegue adicionar a 1.0 e obter uma soma que seja "
+"maior que 1.0."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Complex Arithmetic"
-msgstr ""
+msgstr "Aritmética Complexa"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Details of arithmetic with complex numbers."
-msgstr ""
+msgstr "Detalhes da aritmética com números complexos."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Round-Trip Base Conversion"
-msgstr ""
+msgstr "Conversão Base de Ida e Volta"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "What happens between base-2 and base-10."
-msgstr ""
+msgstr "O que acontece entre base-2 e base-10."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Further Reading"
-msgstr ""
+msgstr "Leitura Adicional"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "References for floating-point numbers."
-msgstr ""
+msgstr "Referências para números de ponto flutuante."
 
 #. type: section
 #: c-intro-and-ref.texi:508 c-intro-and-ref.texi:12580
 #: c-intro-and-ref.texi:12582 c-intro-and-ref.texi:12583
 #, no-wrap
 msgid "Pragmas"
-msgstr ""
+msgstr "Pragmas"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:508 c-intro-and-ref.texi:12580
 msgid "Controlling compilation of some constructs."
-msgstr ""
+msgstr "Controlando a compilação de alguns constructos."
 
 #. type: section
 #: c-intro-and-ref.texi:508 c-intro-and-ref.texi:12580
 #: c-intro-and-ref.texi:12872 c-intro-and-ref.texi:12873
 #, no-wrap
 msgid "Static Assertions"
-msgstr ""
+msgstr "Afirmações Estáticas"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:508 c-intro-and-ref.texi:12580
 msgid "Compile-time tests for conditions."
-msgstr ""
+msgstr "Testes em tempo de compilação para condições."
 
 #. type: Plain text
 #: c-intro-and-ref.texi:519
@@ -3008,6 +3012,10 @@ msgid ""
 "it to explain a few features of the language.  If you already know the basic "
 "points of C presented in this chapter, you can skim it or skip it."
 msgstr ""
+"Este capítulo apresenta o código-fonte para um programa C muito simples e "
+"o usa para explicar alguns recursos da linguagem. Se já conhece os pontos "
+"básicos da C apresentados neste capítulo, você pode dar uma olhada "
+"rápida ou ignorá-lo."
 
 #. type: Plain text
 #: c-intro-and-ref.texi:523
@@ -3016,24 +3024,27 @@ msgid ""
 "fixed-width typeface, since that's the way they look when you edit them in "
 "an editor such as GNU Emacs."
 msgstr ""
+"Nós apresentamos exemplos de código-fonte C (exceto comentários) usando "
+"uma fonte de largura fixa, pois é assim que eles aparentam quando você os "
+"edita em um editor como o GNU Emacs."
 
 #. type: section
 #: c-intro-and-ref.texi:531
 #, no-wrap
 msgid "Example: Recursive Fibonacci"
-msgstr ""
+msgstr "Exemplo: Fibonacci Recursivo"
 
 #. type: cindex
 #: c-intro-and-ref.texi:532
 #, no-wrap
 msgid "recursive Fibonacci function"
-msgstr ""
+msgstr "função recursiva Fibonacci"
 
 #. type: cindex
 #: c-intro-and-ref.texi:533
 #, no-wrap
 msgid "Fibonacci function, recursive"
-msgstr ""
+msgstr "função Fibonacci, recursiva"
 
 #. type: Plain text
 #: c-intro-and-ref.texi:540
@@ -3044,6 +3055,11 @@ msgid ""
 "number is the sum of the previous two: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, "
 "@dots{}."
 msgstr ""
+"Para apresentar os recursos mais básicos da C, vejamos o código de uma "
+"função matemática simples que faz cálculos em números inteiros. Esta "
+"função calcula o @var{n}ésimo número da série Fibonacci, na qual cada "
+"número é a soma dos dois anteriores: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, "
+"@dots{}."
 
 #. type: example
 #: c-intro-and-ref.texi:550
@@ -3058,11 +3074,19 @@ msgid ""
 "    return fib (n - 1) + fib (n - 2);\n"
 "@}\n"
 msgstr ""
+"int\n"
+"fib (int n)\n"
+"@{\n"
+"  if (n <= 2)  /* @r{Isso evita recursão infinita}.  */\n"
+"    return 1;\n"
+"  else\n"
+"    return fib (n - 1) + fib (n - 2);\n"
+"@}\n"
 
 #. type: Plain text
 #: c-intro-and-ref.texi:553
 msgid "This very simple program illustrates several features of C:"
-msgstr ""
+msgstr "Esse programa muito simples ilustra vários recursos da C:"
 
 #. type: itemize
 #: c-intro-and-ref.texi:558
@@ -3070,6 +3094,8 @@ msgid ""
 "A function definition, whose first two lines constitute the function "
 "header.  @xref{Function Definitions}."
 msgstr ""
+"Uma definição de função, cujas duas primeiras linhas constituem o "
+"cabeçalho da função. @xref{Definições de Função}."
 
 #. type: itemize
 #: c-intro-and-ref.texi:564
@@ -3079,6 +3105,10 @@ msgid ""
 "definition uses parameters to refer to the argument values provided in a "
 "call to that function."
 msgstr ""
+"Um parâmetro de função @code{n}, referido como a variável @code{n} "
+"dentro do corpo da função. @xref{Variáveis de Parâmetro de Função}. "
+"Uma definição de função usa parâmetros para se referir aos valores dos "
+"argumentos fornecidos em uma chamada para essa função."
 
 #. type: itemize
 #: c-intro-and-ref.texi:568
@@ -3086,6 +3116,8 @@ msgid ""
 "Arithmetic.  C programs add with @samp{+} and subtract with @samp{-}.  "
 "@xref{Arithmetic}."
 msgstr ""
+"Aritmética. Programas C somam com @samp{+} e subtraem com @samp{-}. "
+"@xref{Aritmética}."
 
 #. type: itemize
 #: c-intro-and-ref.texi:572
@@ -3093,11 +3125,13 @@ msgid ""
 "Numeric comparisons.  The operator @samp{<=} tests for ``less than or "
 "equal.'' @xref{Numeric Comparisons}."
 msgstr ""
+"Comparações numéricas. O operador @samp{<=} testa ``menor que ou igual "
+"a''. @xref{Comparações Numéricas}."
 
 #. type: itemize
 #: c-intro-and-ref.texi:576
 msgid "Integer constants written in base 10.  @xref{Integer Constants}."
-msgstr ""
+msgstr "Constantes inteiras escritas na base 10. @xref{Constantes Inteiras}."
 
 #. type: itemize
 #: c-intro-and-ref.texi:581
@@ -3106,6 +3140,9 @@ msgid ""
 "@code{fib}, passing as its argument the value @code{n - 1}.  @xref{Function "
 "Calls}."
 msgstr ""
+"Uma chamada de função. A chamada de função @code{fib (n - 1)} chama a "
+"função @code{fib}, passando como argumento dela o valor @code{n - 1}. "
+"@xref{Chamadas de Função}."
 
 #. type: itemize
 #: c-intro-and-ref.texi:589
@@ -3116,6 +3153,12 @@ msgid ""
 "code is tremendously important---they provide background information so "
 "others can understand the code more quickly.  @xref{Comments}."
 msgstr ""
+"Um comentário que começa com @samp{/*} e termina com @samp{*/}. O "
+"comentário não tem efeito sobre a execução do programa. O objetivo dele "
+"é o de fornecer explicações para as pessoas que leem o código-fonte. "
+"Incluir comentários no código é extremamente importante-–-eles fornecem "
+"informações básicas de modo que outros(as) consigam entender o código "
+"mais rapidamente. @xref{Comentários}."
 
 #. type: itemize
 #: c-intro-and-ref.texi:595
@@ -3125,6 +3168,11 @@ msgid ""
 "rest of the code.  That is to make comments easier to read.  This "
 "distinction of typeface does not exist in a real file of C source code."
 msgstr ""
+"Neste manual, nós apresentamos o texto dos comentários na fonte de largura "
+"variável usada para o texto dos capítulos, e não na fonte de largura fixa "
+"usada para o resto do código. Isso é para tornar os comentários mais "
+"fáceis de ler. Essa distinção de tipo de letra não existe em um arquivo "
+"real do código-fonte da C."
 
 #. type: itemize
 #: c-intro-and-ref.texi:599
@@ -3132,6 +3180,8 @@ msgid ""
 "Two kinds of statements, the @code{return} statement and the "
 "@code{if}@dots{}@code{else} statement.  @xref{Statements}."
 msgstr ""
+"Dois tipos de instruções, a instrução @code{return} e a instrução "
+"@code{if}@dots{}@code{else}. @xref{Declarações}."
 
 #. type: itemize
 #: c-intro-and-ref.texi:603
@@ -3139,6 +3189,8 @@ msgid ""
 "Recursion.  The function @code{fib} calls itself; that is called a "
 "@dfn{recursive call}.  These are valid in C, and quite common."
 msgstr ""
+"Recursão. A função @code{fib} chama a ela mesma; isso é chamado de uma "
+"@dfn{chamada recursiva}. Elas são válidas em C e bastante comuns."
 
 #. type: itemize
 #: c-intro-and-ref.texi:607
@@ -3146,6 +3198,9 @@ msgid ""
 "The @code{fib} function would not be useful if it didn't return.  Thus, "
 "recursive definitions, to be of any use, must avoid @dfn{infinite recursion}."
 msgstr ""
+"A função @code{fib} não seria útil se não retornasse. Assim, "
+"definições recursivas, para serem de algum uso, precisam evitar "
+"@dfn{recursão infinita}."
 
 #. type: itemize
 #: c-intro-and-ref.texi:611
@@ -3154,36 +3209,39 @@ msgid ""
 "the case where @code{n} is two or less.  Thus the maximum depth of recursive "
 "calls is less than @code{n}."
 msgstr ""
+"Essa definição de função evita recursão infinita tratando especialmente "
+"o caso em que @code{n} é dois ou menos. Assim, a profundidade máxima das "
+"chamadas recursivas é menor que @code{n}."
 
 #. type: subsection
 #: c-intro-and-ref.texi:616 c-intro-and-ref.texi:618
 #: c-intro-and-ref.texi:619
 #, no-wrap
 msgid "Function Header"
-msgstr ""
+msgstr "Cabeçalho de Função"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:616
 msgid "The function's name and how it is called."
-msgstr ""
+msgstr "O nome da função e como ela é chamada."
 
 #. type: subsection
 #: c-intro-and-ref.texi:616 c-intro-and-ref.texi:636
 #: c-intro-and-ref.texi:637
 #, no-wrap
 msgid "Function Body"
-msgstr ""
+msgstr "Corpo de Função"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:616
 msgid "Declarations and statements that implement the function."
-msgstr ""
+msgstr "Declarações e instruções que implementam a função."
 
 #. type: cindex
 #: c-intro-and-ref.texi:620
 #, no-wrap
 msgid "function header"
-msgstr ""
+msgstr "cabeçalho de função"
 
 #. type: Plain text
 #: c-intro-and-ref.texi:625
@@ -3192,6 +3250,9 @@ msgid ""
 "@dfn{header}.  Its purpose is to state the function's name and say how it is "
 "called:"
 msgstr ""
+"Em nosso exemplo, as duas primeiras linhas da definição da função são o "
+"@dfn{cabeçalho}. O objetivo dele é o de indicar o nome da função e dizer "
+"como ela é chamada:"
 
 #. type: example
 #: c-intro-and-ref.texi:629
@@ -3200,6 +3261,8 @@ msgid ""
 "int\n"
 "fib (int n)\n"
 msgstr ""
+"int\n"
+"fib (int n)\n"
 
 #. type: Plain text
 #: c-intro-and-ref.texi:635
@@ -3208,6 +3271,10 @@ msgid ""
 "@code{fib}, and it takes one argument named @code{n} which is also an "
 "integer.  (Data types will be explained later, in @ref{Primitive Types}.)"
 msgstr ""
+"diz que a função retorna um inteiro (tipo @code{int}), o nome dele é "
+"@code{fib} e recebe um argumento chamado @code{n} que também é um inteiro. "
+"(Os tipos de dados serão explicados posteriormente, em @ref{Tipos "
+"Primitivos})."
 
 #. type: cindex
 #: c-intro-and-ref.texi:638

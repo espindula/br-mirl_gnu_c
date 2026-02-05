@@ -1863,115 +1863,118 @@ msgstr "Empacotando compos de estrutura tão próximo quanto possível."
 #: c-intro-and-ref.texi:6295 c-intro-and-ref.texi:6296
 #, no-wrap
 msgid "Bit Fields"
-msgstr ""
+msgstr "Campos de Bits"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Dividing integer fields into fields with fewer bits."
-msgstr ""
+msgstr "Dividindo campos de inteiros em campos com menos bits."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6355 c-intro-and-ref.texi:6356
 #, no-wrap
 msgid "Bit Field Packing"
-msgstr ""
+msgstr "Empacotamento de Campo de Bits"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "How bit fields pack together in integers."
-msgstr ""
+msgstr "Como campos de bits empacotam juntos em inteiros."
 
 #. type: node
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6418
 #, no-wrap
 msgid "const Fields"
-msgstr ""
+msgstr "Campos const"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Making structure fields immutable."
-msgstr ""
+msgstr "Tornando imutáveis campos de estrutura."
 
 #. type: node
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6460
 #, no-wrap
 msgid "Zero Length"
-msgstr ""
+msgstr "Tamanho Zero"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Zero-length array as a variable-length object."
-msgstr ""
+msgstr "Vetor de tamanho zero como um objeto de tamanho variável."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6487 c-intro-and-ref.texi:6488
 #, no-wrap
 msgid "Flexible Array Fields"
-msgstr ""
+msgstr "Campos de Vetores Flexíveis"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Another approach to variable-length objects."
-msgstr ""
+msgstr "Outra abordagem para objetos de tamanho variável."
 
 #. type: node
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6538
 #, no-wrap
 msgid "Overlaying Structures"
-msgstr ""
+msgstr "Estruturas de Sobreposição"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Casting one structure type over an object of another structure type."
 msgstr ""
+"Converter um tipo de estrutura sobre um objeto de outro tipo de estrutura."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6577 c-intro-and-ref.texi:6578
 #, no-wrap
 msgid "Structure Assignment"
-msgstr ""
+msgstr "Atribuição de Estrutura"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Assigning values to structure objects."
-msgstr ""
+msgstr "Atribuindo valores para objetos de estrutura."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6648 c-intro-and-ref.texi:6649
 #, no-wrap
 msgid "Unions"
-msgstr ""
+msgstr "Uniões"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Viewing the same object in different types."
-msgstr ""
+msgstr "Visualizando o mesmo objeto em diferentes tipos."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6723 c-intro-and-ref.texi:6724
 #, no-wrap
 msgid "Packing With Unions"
-msgstr ""
+msgstr "Empacotando Com Uniões"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Using a union type to pack various types into the same memory space."
 msgstr ""
+"Usando um tipo de união para empacotar vários tipos no mesmo espaço de "
+"memória."
 
 #. type: node
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6772
 #, no-wrap
 msgid "Cast to Union"
-msgstr ""
+msgstr "Computar para União"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
@@ -1979,354 +1982,358 @@ msgid ""
 "Casting a value one of the union's alternative types to the type of the "
 "union itself."
 msgstr ""
+"Computar um valor um dos tipos alternativos da união para o tipo da "
+"própria união."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6825 c-intro-and-ref.texi:6826
 #, no-wrap
 msgid "Structure Constructors"
-msgstr ""
+msgstr "Constructos de Estrutura"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Building new structure objects."
-msgstr ""
+msgstr "Construindo novos objetos de estrutura."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6888 c-intro-and-ref.texi:6889
 #, no-wrap
 msgid "Unnamed Types as Fields"
-msgstr ""
+msgstr "Tipos Desnominados como Campos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Fields' types do not always need names."
-msgstr ""
+msgstr "Tipos de campos nem sempre precisam de nomes."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6941 c-intro-and-ref.texi:6942
 #, no-wrap
 msgid "Incomplete Types"
-msgstr ""
+msgstr "Tipos Incompletos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Types which have not been fully defined."
-msgstr ""
+msgstr "Tipos os quais não foram completamente definidos."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:6989 c-intro-and-ref.texi:6990
 #, no-wrap
 msgid "Intertwined Incomplete Types"
-msgstr ""
+msgstr "Tipos Incompletos Entrelaçados"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Defining mutually-recursive structure types."
-msgstr ""
+msgstr "Definindo tipos mutuamente recursivos de estrutura."
 
 #. type: section
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 #: c-intro-and-ref.texi:7024 c-intro-and-ref.texi:7025
 #, no-wrap
 msgid "Type Tags"
-msgstr ""
+msgstr "Etiquetas de Tipo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:377 c-intro-and-ref.texi:5988
 msgid "Scope of structure and union type tags."
-msgstr ""
+msgstr "Escopo de estrutura e etiquetas de tipo de união."
 
 #. type: section
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 #: c-intro-and-ref.texi:7162 c-intro-and-ref.texi:7163
 #, no-wrap
 msgid "Accessing Array Elements"
-msgstr ""
+msgstr "Acessando Elementos de Vetor"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 msgid "How to access individual elements of an array."
-msgstr ""
+msgstr "Como acessar elementos individuais de um vetor."
 
 #. type: section
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 #: c-intro-and-ref.texi:7211 c-intro-and-ref.texi:7212
 #, no-wrap
 msgid "Declaring an Array"
-msgstr ""
+msgstr "Declarando um Vetor"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 msgid "How to name and reserve space for a new array."
-msgstr ""
+msgstr "Como nomear e reservar espaço para um novo vetor."
 
 #. type: section
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 #: c-intro-and-ref.texi:7282 c-intro-and-ref.texi:7283
 #, no-wrap
 msgid "Strings"
-msgstr ""
+msgstr "Sequências de Caracteres"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 msgid "A string in C is a special case of array."
-msgstr ""
+msgstr "Uma sequência de caracteres na C é um caso especial de vetor."
 
 #. type: section
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 #: c-intro-and-ref.texi:7386 c-intro-and-ref.texi:7387
 #, no-wrap
 msgid "Incomplete Array Types"
-msgstr ""
+msgstr "Tipos Incompletos de Vetor"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 msgid "Naming, but not allocating, a new array."
-msgstr ""
+msgstr "Nomeando, porém não alocando, um novo vetor."
 
 #. type: section
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 #: c-intro-and-ref.texi:7440 c-intro-and-ref.texi:7441
 #, no-wrap
 msgid "Limitations of C Arrays"
-msgstr ""
+msgstr "Limitações de Vetores da C"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 msgid "Arrays are not first-class objects."
-msgstr ""
+msgstr "Vetores não são objetos de primeira classe."
 
 #. type: section
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 #: c-intro-and-ref.texi:7489 c-intro-and-ref.texi:7490
 #, no-wrap
 msgid "Multidimensional Arrays"
-msgstr ""
+msgstr "Vetores Multidimensionais"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 msgid "Arrays of arrays."
-msgstr ""
+msgstr "Vetores de vetores."
 
 #. type: section
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 #: c-intro-and-ref.texi:7591 c-intro-and-ref.texi:7592
 #, no-wrap
 msgid "Constructing Array Values"
-msgstr ""
+msgstr "Valores Construtores de Vetores"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 msgid "Assigning values to an entire array at once."
-msgstr ""
+msgstr "Atribuindo de uma vez valores para um vetor inteiro."
 
 #. type: section
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 #: c-intro-and-ref.texi:7639 c-intro-and-ref.texi:7640
 #, no-wrap
 msgid "Arrays of Variable Length"
-msgstr ""
+msgstr "Vetores de Tamanho Variável"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:388 c-intro-and-ref.texi:7160
 msgid "Declaring arrays of non-constant size."
-msgstr ""
+msgstr "Declarando vetores de tamanho não constante."
 
 #. type: section
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:7961 c-intro-and-ref.texi:7962
 #, no-wrap
 msgid "Expression Statement"
-msgstr ""
+msgstr "Declaração de Expressão"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "Evaluate an expression, as a statement, usually done for a side effect."
 msgstr ""
+"Avaliar uma expressão, como uma declaração, usualmente feita para um "
+"efeito colateral."
 
 #. type: node
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:7994
 #, no-wrap
 msgid "if Statement"
-msgstr ""
+msgstr "Declaração if"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "Basic conditional execution."
-msgstr ""
+msgstr "Execução básica condicional."
 
 #. type: node
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:8020
 #, no-wrap
 msgid "if-else Statement"
-msgstr ""
+msgstr "Declaração if-else"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "Multiple branches for conditional execution."
-msgstr ""
+msgstr "Múltiplas ramificações para execução condicional."
 
 #. type: section
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:8048 c-intro-and-ref.texi:8049
 #, no-wrap
 msgid "Blocks"
-msgstr ""
+msgstr "Blocos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "Grouping multiple statements together."
-msgstr ""
+msgstr "Agrupando múltiplas declarações."
 
 #. type: node
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:8121
 #, no-wrap
 msgid "return Statement"
-msgstr ""
+msgstr "Declaração return"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "Return a value from a function."
-msgstr ""
+msgstr "Retornar um valor originário de uma função."
 
 #. type: section
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:8153 c-intro-and-ref.texi:8154
 #, no-wrap
 msgid "Loop Statements"
-msgstr ""
+msgstr "Declarações de Ciclo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "Repeatedly executing a statement or block."
-msgstr ""
+msgstr "Repetidamente executando uma declaração ou um bloco."
 
 #. type: node
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:8527
 #, no-wrap
 msgid "switch Statement"
-msgstr ""
+msgstr "Declaração switch"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "Multi-way conditional choices."
-msgstr ""
+msgstr "Escolhas condicionais multi-maneiras"
 
 #. type: node
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:8612
 #, no-wrap
 msgid "switch Example"
-msgstr ""
+msgstr "Exemplo switch"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "A plausible example of using @code{switch}."
-msgstr ""
+msgstr "Um exemplo plausível de usar-se @code{switch}."
 
 #. type: node
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:8677
 #, no-wrap
 msgid "Duffs Device"
-msgstr ""
+msgstr "Dispositivo Duffs"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "A special way to use @code{switch}."
-msgstr ""
+msgstr "Uma maneira especial para usar @code{switch}."
 
 #. type: section
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:8725 c-intro-and-ref.texi:8726
 #, no-wrap
 msgid "Case Ranges"
-msgstr ""
+msgstr "Intervalos de Caso"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "Ranges of values for @code{switch} cases."
-msgstr ""
+msgstr "Intervalos de valor para casos de @code{switch}."
 
 #. type: section
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:8761 c-intro-and-ref.texi:8762
 #, no-wrap
 msgid "Null Statement"
-msgstr ""
+msgstr "Declaração Nula"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "A statement that does nothing."
-msgstr ""
+msgstr "Uma declaração que não faz nada."
 
 #. type: node
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:8779
 #, no-wrap
 msgid "goto Statement"
-msgstr ""
+msgstr "Declaração goto"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "Jump to another point in the source code, identified by a label."
-msgstr ""
+msgstr "Pular para outro ponto no código-fonte, identificado por um rótulo."
 
 #. type: node
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:8930
 #, no-wrap
 msgid "Local Labels"
-msgstr ""
+msgstr "Rótulos Locais"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "Labels with limited scope."
-msgstr ""
+msgstr "Rótulos com escopo limitado."
 
 #. type: section
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:9013 c-intro-and-ref.texi:9014
 #, no-wrap
 msgid "Labels as Values"
-msgstr ""
+msgstr "Rótulos como Valores"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "Getting the address of a label."
-msgstr ""
+msgstr "Obtendo o endereço de um rótulo."
 
 #. type: node
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 #: c-intro-and-ref.texi:9125
 #, no-wrap
 msgid "Statement Exprs"
-msgstr ""
+msgstr "Expressões de Declaração"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:408 c-intro-and-ref.texi:7959
 msgid "A series of statements used as an expression."
-msgstr ""
+msgstr "Uma série de declarações usadas como uma expressão."
 
 #. type: section
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 #: c-intro-and-ref.texi:9228 c-intro-and-ref.texi:9229
 #, no-wrap
 msgid "Variable Declarations"
-msgstr ""
+msgstr "Declarações Variáveis"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 msgid "Name a variable and reserve space for it."
-msgstr ""
+msgstr "Nomear uma variável e reservar espaço para ela."
 
 #. type: section
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:897
@@ -2334,140 +2341,144 @@ msgstr ""
 #: c-intro-and-ref.texi:9387
 #, no-wrap
 msgid "Initializers"
-msgstr ""
+msgstr "Inicializadores"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 msgid "Assigning initial values to variables."
-msgstr ""
+msgstr "Atribuindo valores iniciais para variáveis."
 
 #. type: node
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 #: c-intro-and-ref.texi:9470
 #, no-wrap
 msgid "Designated Inits"
-msgstr ""
+msgstr "Iniciadores Designados"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 msgid "Assigning initial values to array elements at particular array indices."
 msgstr ""
+"Atribuindo valores iniciais para elementos de vetor em índices específicos "
+"de vetor."
 
 #. type: node
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 #: c-intro-and-ref.texi:9587
 #, no-wrap
 msgid "Auto Type"
-msgstr ""
+msgstr "Tipo Auto"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 msgid "Obtaining the type of a variable."
-msgstr ""
+msgstr "Obtendo o tipo de uma variável."
 
 #. type: section
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 #: c-intro-and-ref.texi:9624 c-intro-and-ref.texi:9625
 #, no-wrap
 msgid "Local Variables"
-msgstr ""
+msgstr "Variáveis Locais"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 msgid "Variables declared in function definitions."
-msgstr ""
+msgstr "Variáveis declaradas em definições de função."
 
 #. type: section
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 #: c-intro-and-ref.texi:9670 c-intro-and-ref.texi:9671
 #, no-wrap
 msgid "File-Scope Variables"
-msgstr ""
+msgstr "Variáveis de Escopo de Arquivo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 msgid "Variables declared outside of function definitions."
-msgstr ""
+msgstr "Variáveis declaradas fora de definições de função."
 
 #. type: section
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 #: c-intro-and-ref.texi:9711 c-intro-and-ref.texi:9712
 #, no-wrap
 msgid "Static Local Variables"
-msgstr ""
+msgstr "Variáveis Locais Estáticas"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 msgid ""
 "Variables declared within functions, but with permanent storage allocation."
 msgstr ""
+"Variáveis declaradas dentro de funções, porém com alocação permanente "
+"de armazenamento."
 
 #. type: node
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 #: c-intro-and-ref.texi:9744
 #, no-wrap
 msgid "Extern Declarations"
-msgstr ""
+msgstr "Declarações Externas"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 msgid "Declaring a variable which is allocated somewhere else."
-msgstr ""
+msgstr "Declarando uma variável que está alocada em outro lugar."
 
 #. type: node
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 #: c-intro-and-ref.texi:9806
 #, no-wrap
 msgid "Allocating File-Scope"
-msgstr ""
+msgstr "Alocando Escopo de Arquivo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 msgid "When is space allocated for file-scope variables?"
-msgstr ""
+msgstr "Quando espaço está alocado para variáveis de escopo de arquivo?"
 
 #. type: node
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 #: c-intro-and-ref.texi:9846
 #, no-wrap
 msgid "auto and register"
-msgstr ""
+msgstr "auto e register"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 msgid "Historically used storage directions."
-msgstr ""
+msgstr "Direções de armazenamento usadas historicamente."
 
 #. type: node
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 #: c-intro-and-ref.texi:9866
 #, no-wrap
 msgid "Omitting Types"
-msgstr ""
+msgstr "Omitindo Tipos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:428 c-intro-and-ref.texi:9226
 msgid "The bad practice of declaring variables with implicit type."
-msgstr ""
+msgstr "A má prática de se declarar variáveis com tipo implícito."
 
 #. type: findex
 #: c-intro-and-ref.texi:437 c-intro-and-ref.texi:9902
 #: c-intro-and-ref.texi:9904 c-intro-and-ref.texi:9908
 #, no-wrap
 msgid "const"
-msgstr ""
+msgstr "const"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:437 c-intro-and-ref.texi:9902
 msgid "Variables whose values don't change."
-msgstr ""
+msgstr "Variáveis cujos valores não mudam."
 
 #. type: findex
 #: c-intro-and-ref.texi:437 c-intro-and-ref.texi:9902
 #: c-intro-and-ref.texi:9985 c-intro-and-ref.texi:9989
 #, no-wrap
 msgid "volatile"
-msgstr ""
+msgstr "volátil"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:437 c-intro-and-ref.texi:9902
@@ -2475,341 +2486,343 @@ msgid ""
 "Variables whose values may be accessed or changed outside of the control of "
 "this program."
 msgstr ""
+"Variáveis cujos valores podem ser acessados ou mudados fora do controle "
+"deste programa."
 
 #. type: node
 #: c-intro-and-ref.texi:437 c-intro-and-ref.texi:9902
 #: c-intro-and-ref.texi:10049
 #, no-wrap
 msgid "restrict Pointers"
-msgstr ""
+msgstr "Ponteiros restrict"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:437 c-intro-and-ref.texi:9902
 msgid "Restricted pointers for code optimization."
-msgstr ""
+msgstr "Ponteiros restritos para otimização de código."
 
 #. type: node
 #: c-intro-and-ref.texi:437 c-intro-and-ref.texi:9902
 #: c-intro-and-ref.texi:10114
 #, no-wrap
 msgid "restrict Pointer Example"
-msgstr ""
+msgstr "Exemplo de Ponteiro restrict"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:437 c-intro-and-ref.texi:9902
 msgid "Example of how that works."
-msgstr ""
+msgstr "Exemplo de como isso funciona."
 
 #. type: section
 #: c-intro-and-ref.texi:446 c-intro-and-ref.texi:10212
 #: c-intro-and-ref.texi:10214 c-intro-and-ref.texi:10215
 #, no-wrap
 msgid "Function Definitions"
-msgstr ""
+msgstr "Definições de Função"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:446 c-intro-and-ref.texi:10212
 msgid "Writing the body of a function."
-msgstr ""
+msgstr "Escrevendo-se o corpo de uma função."
 
 #. type: section
 #: c-intro-and-ref.texi:446 c-intro-and-ref.texi:10212
 #: c-intro-and-ref.texi:10667 c-intro-and-ref.texi:10668
 #, no-wrap
 msgid "Function Declarations"
-msgstr ""
+msgstr "Declarações de Função"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:446 c-intro-and-ref.texi:10212
 msgid "Declaring the interface of a function."
-msgstr ""
+msgstr "Declarando a interface de uma função."
 
 #. type: section
 #: c-intro-and-ref.texi:446 c-intro-and-ref.texi:10212
 #: c-intro-and-ref.texi:10786 c-intro-and-ref.texi:10787
 #, no-wrap
 msgid "Function Calls"
-msgstr ""
+msgstr "Chamadas de Função"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:446 c-intro-and-ref.texi:10212
 msgid "Using functions."
-msgstr ""
+msgstr "Usando funções."
 
 #. type: section
 #: c-intro-and-ref.texi:446 c-intro-and-ref.texi:10212
 #: c-intro-and-ref.texi:10824 c-intro-and-ref.texi:10825
 #, no-wrap
 msgid "Function Call Semantics"
-msgstr ""
+msgstr "Semântica da Chamada de Função"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:446 c-intro-and-ref.texi:10212
 msgid "Call-by-value argument passing."
-msgstr ""
+msgstr "Passagem de argumento chamada por valor."
 
 #. type: section
 #: c-intro-and-ref.texi:446 c-intro-and-ref.texi:10212
 #: c-intro-and-ref.texi:10874 c-intro-and-ref.texi:10875
 #, no-wrap
 msgid "Function Pointers"
-msgstr ""
+msgstr "Ponteiros de Função"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:446 c-intro-and-ref.texi:10212
 msgid "Using references to functions."
-msgstr ""
+msgstr "Usando-se referências para funções."
 
 #. type: node
 #: c-intro-and-ref.texi:446 c-intro-and-ref.texi:10212
 #: c-intro-and-ref.texi:11051
 #, no-wrap
 msgid "The main Function"
-msgstr ""
+msgstr "A Função main"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:446 c-intro-and-ref.texi:10212
 msgid "Where execution of a GNU C program begins."
-msgstr ""
+msgstr "Onde a execução de um programa GNU C começa."
 
 #. type: section
 #: c-intro-and-ref.texi:454 c-intro-and-ref.texi:11933
 #: c-intro-and-ref.texi:11935 c-intro-and-ref.texi:11936
 #, no-wrap
 msgid "Explicit Type Conversion"
-msgstr ""
+msgstr "Conversão Explícita de Tipo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:454 c-intro-and-ref.texi:11933
 msgid "Casting a value from one type to another."
-msgstr ""
+msgstr "Computando um valor de um tipo para outro."
 
 #. type: section
 #: c-intro-and-ref.texi:454 c-intro-and-ref.texi:11933
 #: c-intro-and-ref.texi:11995 c-intro-and-ref.texi:11996
 #, no-wrap
 msgid "Assignment Type Conversions"
-msgstr ""
+msgstr "Conversões de Tipo de Atribuição"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:454 c-intro-and-ref.texi:11933
 msgid "Automatic conversion by assignment operation."
-msgstr ""
+msgstr "Conversão automática por operação de atribuição."
 
 #. type: section
 #: c-intro-and-ref.texi:454 c-intro-and-ref.texi:11933
 #: c-intro-and-ref.texi:12075 c-intro-and-ref.texi:12076
 #, no-wrap
 msgid "Argument Promotions"
-msgstr ""
+msgstr "Promoções de Argumento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:454 c-intro-and-ref.texi:11933
 msgid "Automatic conversion of function parameters."
-msgstr ""
+msgstr "Conversão automática de parâmetros de função."
 
 #. type: section
 #: c-intro-and-ref.texi:454 c-intro-and-ref.texi:11933
 #: c-intro-and-ref.texi:12114 c-intro-and-ref.texi:12115
 #, no-wrap
 msgid "Operand Promotions"
-msgstr ""
+msgstr "Promoções de Operando"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:454 c-intro-and-ref.texi:11933
 msgid "Automatic conversion of arithmetic operands."
-msgstr ""
+msgstr "Conversão automática de operandos aritméticos."
 
 #. type: section
 #: c-intro-and-ref.texi:454 c-intro-and-ref.texi:11933
 #: c-intro-and-ref.texi:12134 c-intro-and-ref.texi:12135
 #, no-wrap
 msgid "Common Type"
-msgstr ""
+msgstr "Tipo Comum"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:454 c-intro-and-ref.texi:11933
 msgid "When operand types differ, which one is used?"
-msgstr ""
+msgstr "Quando tipos de operandos diferirem, qual é usado?"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Preproc Overview"
-msgstr ""
+msgstr "Visão Geral do Preprocessamento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Introduction to the C preprocessor."
-msgstr ""
+msgstr "Introdução ao preprocessador da C"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Directives"
-msgstr ""
+msgstr "Diretivas"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "The form of preprocessor directives."
-msgstr ""
+msgstr "A forma das diretivas de preprocessador."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Preprocessing Tokens"
-msgstr ""
+msgstr "Preprocessando Tokens"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "The lexical elements of preprocessing."
-msgstr ""
+msgstr "Os elementos léxicos de preprocessamento."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Header Files"
-msgstr ""
+msgstr "Arquivos de Cabeçalho"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Including one source file in another."
-msgstr ""
+msgstr "Incluindo um arquivo fonte em outro."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Macros"
-msgstr ""
+msgstr "Macros"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Macro expansion by the preprocessor."
-msgstr ""
+msgstr "Expansão de macro pelo preprocessador."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Conditionals"
-msgstr ""
+msgstr "Condicionais"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Controlling whether to compile some lines or ignore them."
-msgstr ""
+msgstr "Controlando quando compilar algumas linhas ou ignorá-las."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnósticos"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Reporting warnings and errors."
-msgstr ""
+msgstr "Informando avisos e erros."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Line Control"
-msgstr ""
+msgstr "Controle de Linha"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Reporting source line numbers."
-msgstr ""
+msgstr "Informando números de linha do fonte."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "Null Directive"
-msgstr ""
+msgstr "Diretiva Nula"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:471
 msgid "A preprocessing no-op."
-msgstr ""
+msgstr "Um no-op de preprocessamento."
 
 #. type: section
 #: c-intro-and-ref.texi:476 c-intro-and-ref.texi:12335
 #: c-intro-and-ref.texi:12337 c-intro-and-ref.texi:12338
 #, no-wrap
 msgid "Integer Representations"
-msgstr ""
+msgstr "Representações de Inteiros"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:476 c-intro-and-ref.texi:12335
 msgid "How integer values appear in memory."
-msgstr ""
+msgstr "Como valores inteiros apareçem na memória."
 
 #. type: section
 #: c-intro-and-ref.texi:476 c-intro-and-ref.texi:12335
 #: c-intro-and-ref.texi:12442 c-intro-and-ref.texi:12443
 #, no-wrap
 msgid "Maximum and Minimum Values"
-msgstr ""
+msgstr "Valores Máximo e Mínimo"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:476 c-intro-and-ref.texi:12335
 msgid "Value ranges of integer types."
-msgstr ""
+msgstr "Intervalos de valores dos tipos inteiros."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Floating Representations"
-msgstr ""
+msgstr "Representações Flutuantes"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "How floating-point values appear in memory."
-msgstr ""
+msgstr "Como valores de ponto flutuante aparecem na memória."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Floating Type Specs"
-msgstr ""
+msgstr "Especificações do Tipo Flutuante"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Precise details of memory representations."
-msgstr ""
+msgstr "Detalhes precisos das representações de memória."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Special Float Values"
-msgstr ""
+msgstr "Valores Especiais de Flutuadores"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Infinity, Not a Number, and Subnormal Numbers."
-msgstr ""
+msgstr "Números Subnormais e Infinidade, Não um Número."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Invalid Optimizations"
-msgstr ""
+msgstr "Otimizações Inválidas"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Don't mess up non-numbers and signed zeros."
-msgstr ""
+msgstr "Não bagunce não-números e zeros sinalizados."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Exception Flags"
-msgstr ""
+msgstr "Sinalizadores de Exceção"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Handling certain conditions in floating point."
-msgstr ""
+msgstr "Manuseando certas condições no ponto flutuante."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Exact Floating-Point"
-msgstr ""
+msgstr "Ponto Flutuante Exato"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Not all floating calculations lose precision."
-msgstr ""
+msgstr "Nem todas as calculações de flutuantes perdem precisão."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Rounding"
-msgstr ""
+msgstr "Arredondamento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
@@ -2817,11 +2830,13 @@ msgid ""
 "When a floating result can't be represented exactly in the floating-point "
 "type in use."
 msgstr ""
+"Quando um resultado flutuante não pode ser representado exatamente no tipo "
+"de ponto flutuante em uso."
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
 msgid "Rounding Issues"
-msgstr ""
+msgstr "Problemas de Arredondamento"
 
 #. type: menuentry
 #: c-intro-and-ref.texi:503
